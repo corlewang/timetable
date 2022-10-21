@@ -1,0 +1,1 @@
+{"version":3,"sources":["uni-app:///main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,qH;AACAA,UAAU,CAACC,oBAAD,CAAV,C","file":"pages/modify/modifyIndex/modifyIndex.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/modify/modifyIndex/modifyIndex.vue'\ncreatePage(Page)"],"sourceRoot":""}
